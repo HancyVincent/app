@@ -3,5 +3,5 @@ services:
   web:
     build: .
     ports:
-      - "8090:5000"
+      - "80:5000"
    
